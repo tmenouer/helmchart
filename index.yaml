@@ -3,7 +3,7 @@ entries:
   helmchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-03-04T10:45:26.365586753+01:00"
+    created: "2022-03-04T15:27:48.208203445+01:00"
     description: A Helm chart for Kubernetes
     digest: 5a873b60a491b0c80aa2ddbc34978d79eb5a32b5e8f3c39d4ecebd96238c1ab1
     name: helmchart
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://tmenouer.github.io/helmchart/helmchart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-03-04T10:45:26.363824314+01:00"
+generated: "2022-03-04T15:27:48.207412543+01:00"
